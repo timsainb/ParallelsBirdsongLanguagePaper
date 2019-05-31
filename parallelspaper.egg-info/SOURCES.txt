@@ -1,0 +1,16 @@
+README.md
+setup.py
+parallelspaper/__init__.py
+parallelspaper.egg-info/PKG-INFO
+parallelspaper.egg-info/SOURCES.txt
+parallelspaper.egg-info/dependency_links.txt
+parallelspaper.egg-info/top_level.txt
+parallelspaper/data/__init__.py
+parallelspaper/data/make_dataset.py
+parallelspaper/features/__init__.py
+parallelspaper/features/build_features.py
+parallelspaper/models/__init__.py
+parallelspaper/models/predict_model.py
+parallelspaper/models/train_model.py
+parallelspaper/visualization/__init__.py
+parallelspaper/visualization/visualize.py
