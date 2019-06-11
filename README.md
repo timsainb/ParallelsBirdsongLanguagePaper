@@ -12,15 +12,15 @@ Abstract:
 The following datasets were used, and need to be manually downloaded for analysis using this code: 
 
 - Speech corpora:
-  - Corpus of Spontaneous Japanese
-  - Buckeye corpus
-  - GECO corpus
-  - Italian corpus
+  - [Corpus of Spontaneous Japanese](https://pj.ninjal.ac.jp/corpus_center/csj/en/)
+  - [Buckeye corpus](https://buckeyecorpus.osu.edu/)
+  - [IMS GECO corpus](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/IMS-GECO.en.html)
+  - [AsiCa corpus](https://www.phonetik.uni-muenchen.de/forschung/BITS/Validation_AsiCa.html)
 - Birdsong datasets
-  - European starling vocalizations (to be uploaded to Figshare)
-  - Bengalese finch vocalizations (link)
-  - Cassin's vireo vocalizations (link)
-  - California thrasher vocalizations (link)
+  - [European starling vocalizations](https://zenodo.org/record/3237218)
+  - [Bengalese finch vocalizations](https://figshare.com/articles/BengaleseFinchsongrepository/4805749)
+  - [Cassin's vireo vocalizations](https://figshare.com/articles/Data_used_in_PLoS_One_article_Complexity_Predictability_and_Time_Homogeneity_of_Syntax_in_the_Songs_of_Cassin_s_Vireo_Vireo_cassini_by_Hedley_2016_/3081814)
+  - [California thrasher vocalizations](http://taylor0.biology.ucla.edu/birdDBQuery/)
  
 
 
